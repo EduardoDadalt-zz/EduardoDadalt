@@ -1,16 +1,13 @@
-### Hi there 👋
+# Eduardo Dadalt Andres
 
-<!--
-**EduardoDadalt/EduardoDadalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá 👋
 
-Here are some ideas to get you started:
+Gosto muito de programar para resolver alguns problemas ou para diversão (Como alguns jogos online pra jogar com meus amigos :grin:) 
+Atualmente Procurando um estágio para ganhar experiencia na área <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linguagens: C e Javascript
+Minha Stack: ReactJS, Nodejs, React Native<br>
+
+Sobre mim: Tenho 18 anos, Estudo no ifrs, gosto de jogar LoL e programo muito no tempo livre
+
+Email para contato: eduardodadalt1@gmail.com
